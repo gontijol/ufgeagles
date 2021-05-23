@@ -33454,7 +33454,7 @@ q=q.a
 q=P.aP(C.c.ak(255*s.f),q>>>16&255,q>>>8&255,q&255)
 o=C.T.i(0,100)
 o.toString
-o=L.bp("EXPLORE",A.bq(r,r,o,r,r,r,r,r,"Montserrat",r,r,20,r,C.C,r,r,!0,r,3,r,r,r,r,r),r,r)
+o=L.bp("UFG Eagles",A.bq(r,r,o,r,r,r,r,r,"Montserrat",r,r,20,r,C.C,r,r,!0,r,3,r,r,r,r,r),r,r)
 q=new E.pQ(o,0,q,new P.N(1/0,56),r)}else q=new Q.tp(new L.uS(s.f,r),new P.N(p.a,1000),r)
 o=t.s
 m=t.D
@@ -33465,8 +33465,8 @@ r.toString
 s.e=r},
 $S:0}
 U.y3.prototype={
-K:function(a,b){var s,r,q,p,o,n,m,l,k=null,j="Contact Us",i="About Us",h="Cancellation",g="Facebook",f=C.T.i(0,900),e=t.D
-if(b.S(t.w).f.a.a<800){s=T.eA(H.a([new K.hA("ABOUT",j,i,"Careers",k),new K.hA("HELP","Payment",h,"FAQ",k),new K.hA("SOCIAL","Twitter",g,"YouTube",k)],e),C.Q,C.f7,C.M)
+K:function(a,b){var s,r,q,p,o,n,m,l,k=null,j="Contact Us",i="About Us",h="Cancellation",g="Facebook",f="ufgeagles@gmail.com",e=C.T.i(0,900),d=t.D
+if(b.S(t.w).f.a.a<800){s=T.eA(H.a([new K.hA("ABOUT",j,i,"Careers",k),new K.hA("HELP","Payment",h,"FAQ",k),new K.hA("SOCIAL","Twitter",g,"YouTube",k)],d),C.Q,C.f7,C.M)
 r=Z.qy(C.b_,k)
 q=T.bD(k,20,k)
 p=T.bD(k,5,k)
@@ -33475,12 +33475,12 @@ n=Z.qy(C.b_,k)
 m=T.bD(k,20,k)
 l=C.T.i(0,300)
 l.toString
-e=T.dB(H.a([s,r,q,new L.kP("Email","gontijol@live.com",k),p,new L.kP("Address","128, Trymore Road, Delft, MN - 56124",k),o,n,m,L.bp("Copyright \xa9 2021 | LUIGI",A.bq(k,k,l,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k)],e),C.Q,C.R,C.M)}else{s=T.eA(H.a([new K.hA("ABOUT",j,i,"Careers",k),new K.hA("HELP","Payment",h,"FAQ",k),new K.hA("SOCIAL","Twitter",g,"YouTube",k),M.cn(k,k,C.b_,k,150,k,k,2),T.dB(H.a([new L.kP("Email","ufgeagles@gmail.com",k),T.bD(k,5,k),new L.kP("Endere\xe7o","Endere\xe7o Teste... rua teste...",k)],e),C.aO,C.R,C.M)],e),C.Q,C.f7,C.M)
+d=T.dB(H.a([s,r,q,new L.kP("Email",f,k),p,new L.kP("Address","128, Trymore Road, Delft, MN - 56124",k),o,n,m,L.bp("Copyright \xa9 2021 | LUIGI",A.bq(k,k,l,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k)],d),C.Q,C.R,C.M)}else{s=T.eA(H.a([new K.hA("ABOUT",j,i,"Careers",k),new K.hA("HELP","Payment",h,"FAQ",k),new K.hA("SOCIAL","Twitter",g,"YouTube",k),M.cn(k,k,C.b_,k,150,k,k,2),T.dB(H.a([new L.kP("Email",f,k),T.bD(k,5,k),new L.kP("Endere\xe7o","Endere\xe7o Teste... rua teste...",k)],d),C.aO,C.R,C.M)],d),C.Q,C.f7,C.M)
 r=Z.qy(C.b_,k)
 q=T.bD(k,20,k)
 p=C.T.i(0,300)
 p.toString
-e=T.dB(H.a([s,r,q,L.bp("Copyright \xa9 2021 | LUIGI GONTIJO",A.bq(k,k,p,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k)],e),C.Q,C.R,C.M)}return M.cn(k,e,f,k,k,k,new V.ay(30,30,30,30),k)}}
+d=T.dB(H.a([s,r,q,L.bp("Copyright \xa9 2021 | LUIGI GONTIJO",A.bq(k,k,p,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k)],d),C.Q,C.R,C.M)}return M.cn(k,d,e,k,k,k,new V.ay(30,30,30,30),k)}}
 K.hA.prototype={
 K:function(a,b){var s=this,r=null
 return new T.bL(new V.ay(0,0,0,20),T.dB(H.a([L.bp(s.c,A.bq(r,r,C.T.i(0,300),r,r,r,r,r,r,r,r,18,r,C.ah,r,r,!0,r,r,r,r,r,r,r),r,r),T.bD(r,10,r),L.bp(s.d,A.bq(r,r,C.T.i(0,100),r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),T.bD(r,5,r),L.bp(s.e,A.bq(r,r,C.T.i(0,100),r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r),r,r),T.bD(r,5,r),L.bp(s.f,A.bq(r,r,C.T.i(0,100),r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r),r,r)],t.D),C.aO,C.R,C.M),r)}}
@@ -33530,11 +33530,11 @@ X.ZQ.prototype={
 $0:function(){this.a.e.p9(this.b)},
 $S:0}
 Z.zl.prototype={
-K:function(a,b){var s=null,r="Montserrat",q=this.c,p=q.b
-q=q.a
-if(b.S(t.w).f.a.a<800){p/=20
-q=M.cn(s,L.bp("Destinations diversity",A.bq(s,s,s,s,s,s,s,s,r,s,s,24,s,C.aR,s,s,!0,s,s,s,s,s,s,s),C.bz,s),s,s,s,s,new V.ay(0,p,0,p),q)}else q=M.cn(s,L.bp("Nossas Modalidades",A.bq(s,s,s,s,s,s,s,s,r,s,s,40,s,C.aR,s,s,!0,s,s,s,s,s,s,s),C.bz,s),s,s,s,s,new V.ay(0,p/10,0,p/15),q)
-return q}}
+K:function(a,b){var s=null,r="Nossas Modalidades",q="Montserrat",p=this.c,o=p.b
+p=p.a
+if(b.S(t.w).f.a.a<800){o/=20
+p=M.cn(s,L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,24,s,C.aR,s,s,!0,s,s,s,s,s,s,s),C.bz,s),s,s,s,s,new V.ay(0,o,0,o),p)}else p=M.cn(s,L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,40,s,C.aR,s,s,!0,s,s,s,s,s,s,s),C.bz,s),s,s,s,s,new V.ay(0,o/10,0,o/15),p)
+return p}}
 U.zM.prototype={
 K:function(a,b){var s,r,q,p,o,n,m,l,k=null,j=C.T.i(0,900)
 j.toString
@@ -33553,7 +33553,7 @@ n=Z.qy(n,2)
 m=R.f5(!1,!0,L.bp("Contact Us",A.bq(k,k,C.j,k,k,k,k,k,k,k,k,22,k,k,k,k,!0,k,k,k,k,k,k,k),k,k),k,!0,k,k,k,k,k,k,k,k,k,new U.OS(),k)
 l=C.T.i(0,300)
 l.toString
-return new Z.zx(M.cn(k,new T.bL(C.n2,T.dB(H.a([s,new T.bL(C.eB,r,k),q,new T.bL(C.eB,p,k),o,new T.bL(C.eB,n,k),m,T.a54(new T.eo(C.ec,k,k,L.bp("Copyright \xa9 2020 | EXPLORE",A.bq(k,k,l,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k),k))],t.D),C.aO,C.R,C.M),k),j,k,k,k,k,k),k)}}
+return new Z.zx(M.cn(k,new T.bL(C.n2,T.dB(H.a([s,new T.bL(C.eB,r,k),q,new T.bL(C.eB,p,k),o,new T.bL(C.eB,n,k),m,T.a54(new T.eo(C.ec,k,k,L.bp("Copyright \xa9 2020 | LUIGI GONTIJO",A.bq(k,k,l,k,k,k,k,k,k,k,k,14,k,k,k,k,!0,k,k,k,k,k,k,k),k,k),k))],t.D),C.aO,C.R,C.M),k),j,k,k,k,k,k),k)}}
 U.OP.prototype={
 $0:function(){},
 $S:0}
@@ -33567,9 +33567,9 @@ U.OS.prototype={
 $0:function(){},
 $S:0}
 Q.zQ.prototype={
-K:function(a,b){var s=null,r="Nossas Atribui\xe7\xf5es",q="Montserrat",p=this.c,o=p.a/15,n=t.D
-n=b.S(t.w).f.a.a<800?T.dB(H.a([T.eA(C.ov,C.Q,C.R,C.M),L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,24,s,C.aR,s,s,!0,s,s,s,s,s,s,s),s,s),T.bD(s,5,s),L.bp("Unique wildlife tours & destinations",s,C.bA,s),T.bD(s,10,s)],n),C.aO,C.R,C.M):T.eA(H.a([L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,40,s,C.aR,s,s,!0,s,s,s,s,s,s,s),s,s),T.a54(L.bp("Clube Universit\xe1rio de Esporte Eletr\xf4nico",s,C.bA,s))],n),C.Q,C.R,C.M)
-return new T.bL(new V.ay(o,p.b*0.06,o,0),n,s)}}
+K:function(a,b){var s=null,r="Nossas Atribui\xe7\xf5es",q="Montserrat",p="Clube Universit\xe1rio de Esporte Eletr\xf4nico",o=this.c,n=o.a/15,m=t.D
+m=b.S(t.w).f.a.a<800?T.dB(H.a([T.eA(C.ov,C.Q,C.R,C.M),L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,24,s,C.aR,s,s,!0,s,s,s,s,s,s,s),s,s),T.bD(s,5,s),L.bp(p,s,C.bA,s),T.bD(s,10,s)],m),C.aO,C.R,C.M):T.eA(H.a([L.bp(r,A.bq(s,s,s,s,s,s,s,s,q,s,s,40,s,C.aR,s,s,!0,s,s,s,s,s,s,s),s,s),T.a54(L.bp(p,s,C.bA,s))],m),C.Q,C.R,C.M)
+return new T.bL(new V.ay(n,o.b*0.06,n,0),m,s)}}
 U.zR.prototype={
 K:function(a,b){var s=null,r=t.S,q=t.cl,p=this.c,o=p.b
 p=p.a
@@ -33588,7 +33588,7 @@ $1:function(a){var s=null,r=this.a,q=r.c,p=q.a
 return T.dB(H.a([T.bD(T.a4P(K.pX(5),U.Qn(r.d[a],C.ca)),p/6,p/3.8),new T.bL(new V.ay(0,q.b/70,0,0),L.bp(r.e[a],A.bq(s,s,s,s,s,s,s,s,"Montserrat",s,s,16,s,C.ah,s,s,!0,s,s,s,s,s,s,s),s,s),s)],t.D),C.Q,C.R,C.M)},
 $S:140}
 V.qW.prototype={
-aw:function(){return new V.G3([!1,!1,!1,!1],H.a([],t.D),H.a(["Sobre N\xf3s","Players","Staff","Conquistas"],t.s),H.a([C.np,C.no,C.nr,C.nt],t.wH),C.l)}}
+aw:function(){return new V.G3([!1,!1,!1,!1],H.a([],t.D),H.a(["Sobre N\xf3s","Players","Staff","Conquistas"],t.s),H.a([C.nt,C.np,C.nr,C.ns],t.wH),C.l)}}
 V.G3.prototype={
 HV:function(){var s,r,q,p,o,n,m=this,l=null,k=m.e
 C.b.sl(k,0)
@@ -56328,19 +56328,19 @@ C.bb=new E.r9("HitTestBehavior.opaque")
 C.cr=new E.r9("HitTestBehavior.translucent")
 C.nm=new X.ev(57490,!0)
 C.nn=new X.ev(57491,!0)
-C.no=new X.ev(57782,!1)
-C.np=new X.ev(58283,!1)
-C.nr=new X.ev(58502,!1)
-C.nt=new X.ev(59097,!1)
+C.np=new X.ev(58502,!1)
+C.nr=new X.ev(58873,!1)
+C.ns=new X.ev(61466,!1)
+C.nt=new X.ev(61876,!1)
 C.z=new P.G(3707764736)
 C.nu=new T.ew(C.z,null,null)
 C.eH=new T.ew(C.n,1,24)
 C.i2=new T.ew(C.n,null,null)
 C.eI=new T.ew(C.j,null,null)
-C.nq=new X.ev(58332,!1)
-C.i3=new L.mU(C.nq,null,null)
-C.ns=new X.ev(58727,!1)
-C.nv=new L.mU(C.ns,null,null)
+C.no=new X.ev(58332,!1)
+C.i3=new L.mU(C.no,null,null)
+C.nq=new X.ev(58727,!1)
+C.nv=new L.mU(C.nq,null,null)
 C.i4=new P.Qo("ImageByteFormat.rawRgba")
 C.nx=new X.mV("ImageRepeat.repeat")
 C.ny=new X.mV("ImageRepeat.repeatX")
